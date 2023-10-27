@@ -11,6 +11,7 @@ This application demonstrates how to create MIDI sequences for different melodie
 - Java
 - Eclipse IDE
 - javax.sound.midi
+  https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share/0.3.7-2
 
 ## Getting Started
 
@@ -64,4 +65,4 @@ Feel free to explore these classes and experiment with the MIDI synthesis and po
 
 - https://github.com/GallonSchimmer - Initial work
 
-https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share/0.3.7-2)https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share/0.3.7-2
+
